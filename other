@@ -1,0 +1,24 @@
+<main>
+        <div id="destaques">
+            <article class="artigo-destaques">
+                <span class="content_tag">Robótica</span>
+                <p>Robôs domésticos começam a ser adotados para tarefas diárias, prometendo mais conforto e eficiência nas residências.</p>
+            </article>
+            <article class="artigo-destaques">
+                <span class="content_tag">Hologramas</span>
+                <p>Novo Smartphone Projetor 3D chega ao mercado, transformando a forma como vemos nossas telas!</p>
+            </article>
+            <article class="artigo-destaques">
+                <span class="content_tag">Internet</span>
+                <p>Tecnologia 6G chega às metrópoles brasileiras, prometendo revolucionar a forma como vivemos e nos comunicamos.</p>
+            </article>
+            <article class="artigo-destaques">
+                <span class="content_tag">Vestíveis</span>
+                <p>Empresa lança relógio inteligente capaz de monitorar a saúde mental, oferecendo insights valiosos para o bem-estar pessoal.</p>
+            </article>
+            <article class="artigo-destaques">
+                <span class="content_tag">Realidade Virtual</span>
+                <p>Escolas adotam a tecnologia VR para proporcionar experiências imersivas, transformando a aprendizagem tradicional.</p>
+            </article>
+        </div>
+    </main>
